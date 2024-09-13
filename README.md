@@ -1,7 +1,19 @@
 # My-Portfolio
 
-Welcome to my personal portfolio website showcasing my skills, experience, and projects. This portfolio is a reflection of my journey as a developer, and you can explore my work, achievements, and connect with me!
-
+ Welcome to my personal portfolio website showcasing my skills, experience, and projects. This portfolio is a reflection of my journey as a developer, and you can explore my work, achievements, and connect with 
+  me!
+  
+## Table of Contents
+-   [Live Preview](#live-preview)
+-   [Features](#features)
+-   [Sections](#sections)
+-   [AI Chat Integration](#ai-chat-integration)
+-   [EmailJS Contact Form](#emailjs-contact-form)
+-   [Technologies Used](#technologies-used)
+-   [Installation](#installation)
+-   [Hosting](#hosting)
+-   [License](#license)
+-   [Copyright](#copyright)
 ## Live Preview
 Check out my portfolio live at [Vivek's Portfolio](https://vivek76.vercel.app/).
 
@@ -109,11 +121,15 @@ If no advanced setup is needed, simply open the `index.html` file in your browse
    open index.html
 ```
 Or, manually navigate to the file and double-click index.html to open it in your preferred web browser.
+## Hosting
+
+
+This portfolio is hosted on [Vercel](https://vercel.com/), which provides fast and scalable deployment solutions. The project is automatically deployed from the GitHub repository whenever changes are pushed.
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
----
+This project is licensed under the MIT License. This means you are free to use, modify, and distribute the project as long as you include the original copyright and license notice. For more details on what is allowed and what is not, refer to the [MIT License](./LICENSE).
 
 ## Copyright
 
