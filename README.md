@@ -133,6 +133,6 @@ This project is licensed under the MIT License. This means you are free to use, 
 
 ## Copyright
 
-&copy; 2024 Vivek Reddy Kesavarapu. All rights reserved.
+&copy; 2024 Vivek. All rights reserved.
 
 Permission is granted to use this resume template for personal use, but it may not be reproduced, distributed, or used for any commercial purposes without explicit permission from the author.
