@@ -1,5 +1,5 @@
 # My-Portfolio
-
+## version - v1
  Welcome to my personal portfolio website showcasing my skills, experience, and projects. This portfolio is a reflection of my journey as a developer, and you can explore my work, achievements, and connect with 
   me!
   
@@ -15,7 +15,7 @@
 -   [License](#license)
 -   [Copyright](#copyright)
 ## Live Preview
-Check out my portfolio live at [Vivek's Portfolio](https://vivek76.vercel.app/).
+Check out my portfolio live at [Portfolio](https://vivek76.vercel.app/).
 
 ## Features
 - **Responsive Design:** Fully responsive across all devices.
@@ -133,6 +133,6 @@ This project is licensed under the MIT License. This means you are free to use, 
 
 ## Copyright
 
-&copy; 2024 Vivek. All rights reserved.
+&copy; 2024. All rights reserved.
 
 Permission is granted to use this resume template for personal use, but it may not be reproduced, distributed, or used for any commercial purposes without explicit permission from the author.
